@@ -1,0 +1,74 @@
+body{
+    background: darkgray;
+    margin:0;
+}
+
+.container{
+    width: 20%;
+    margin-top: 10%;
+    letter-spacing: 1px;
+    background: darkgray;
+}
+
+.container h2{
+    background: #000000;
+    color: #fff;
+    width: 200px;
+    font-size: 24px;
+    padding: 5px;
+    height: 40px;
+}
+
+.col-md3{
+    padding-right: 25px;
+    padding-left: 25px;
+}
+
+.row{
+    margin-top: 30px;
+}
+
+.product-bottom .fa{
+    color: #28a745;
+    font-size: 10px;
+}
+
+.product-bottom h3{
+    font-size: 20px;
+    font-weight: bold;
+    background: darkgray;
+    text-align: center;
+}
+
+.product-bottom h5{
+    font-size: 15px;
+    padding-bottom: 10px;
+    background: darkgray;
+    text-align: center;
+}
+
+.pricearea button{
+    width: 100%;
+    padding: 12px 10px;
+    border: none;
+    font-size: 18px;
+    border-radius: 30px;
+    background-color: black;
+    color: #fff;
+    margin-bottom: 3px;
+}
+
+.search-container button {
+    float: none;
+    padding: 6px 10px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: none;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+}
+
+.search-container button:hover {
+    background: #ccc;
+}
